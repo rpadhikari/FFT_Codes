@@ -6,4 +6,8 @@ For further documentation please refer the respective code directly.
 This code is still not fully polished, however it works as desired. Plotting of results and other fancyness will be added soon. Please stay tuned.
 I am very happy to listen from you, please write me rajendra dot adhikari @ ku dot edu dot np.
 
+To compile and run just type:
+  sh run.sh or ./run.sh
+  
+
 
